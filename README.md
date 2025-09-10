@@ -15,8 +15,7 @@
 - tires and brakes emissions;
 - EURO eco standard
 
-- 
-
+  
 Kolesa.kz chrome extention
 Link : https://chromewebstore.google.com/detail/kolesa-listing-analyzer/obbnjkfehjphbhlkodpbjmojdhheomba?authuser=0&hl=en
 
